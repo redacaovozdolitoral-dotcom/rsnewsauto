@@ -1,0 +1,5 @@
+{
+  "name": "FloraCare AI",
+  "description": "Your intelligent gardening assistant. Identify plants from photos and get expert care instructions using Gemini AI.",
+  "requestFramePermissions": ["camera"]
+}
